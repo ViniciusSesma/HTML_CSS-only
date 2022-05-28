@@ -1,0 +1,60 @@
+body{
+    background-color:#ebcd4c;
+    font: 16px Arial,Helvetica,sans-serif;
+}
+
+h1{
+    color:#270707;
+}
+
+h2{
+    color:#270707;
+}
+
+h4{
+    color: #270707;
+}
+
+p{ color:#270707;
+    padding: 2px
+}
+
+a{
+    color: #221;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 6px;
+}
+
+#main {
+width: 900px;
+}
+
+#menu{
+    padding: 18px;
+    background-color: rgba(211, 173, 198, 0.767);
+    width: 864px;
+}
+
+#content{
+    padding: 10px;
+    background: #e8e8d9;
+    width: 880px;
+}
+
+.img-products{
+    border: 10px solid rgb(124, 19, 19);
+    width:860px;
+    height:400px;
+}
+
+.format{
+    color: #221;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Info{
+    text-align: center;
+    color:#221;
+}
