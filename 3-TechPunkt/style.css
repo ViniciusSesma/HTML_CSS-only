@@ -1,0 +1,109 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #dfdfdf;
+}
+
+h1{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2{
+    color:rgba(1, 197, 83, 0.671) ;
+}
+
+h3{
+    color: #4e4e4e;
+    background: #CCC;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(1, 197, 83, 0.671);
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#header a:link, #header a:visited{
+    color: #fff;
+    padding: 8px 12px;
+    
+}
+
+.post a{
+    color: #4e4e4e;
+} 
+
+#header a:hover{
+    background: #dfdfdf;
+    color:rgba(5, 204, 88, 0.384);
+    text-decoration: dashed;
+}
+#header{
+    background-color: rgba(5, 204, 88, 0.384);
+    padding: 20px;
+    text-align: center;
+}
+
+#logo{
+    color: #e6e6e6;
+    padding: 10px;
+}
+
+#main{
+    width: 920px;
+    margin: 15px auto;
+}
+
+#news{
+    width: 660px;
+    float: left;
+}
+
+#lateral{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 240px;
+    float: right;
+}
+
+#lateral-content{
+    background: #dfdfdf;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#menu{
+    text-decoration: none;
+    padding: 10px;
+}
+
+#rights{
+    text-align: center;
+    padding: 15px;
+    clear: both;
+}
+
+.post{
+    padding: 20px;
+}
+
+.post-date{
+    font-size: 0.8em;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.lateral-post{
+    padding: 5px;
+
+}
