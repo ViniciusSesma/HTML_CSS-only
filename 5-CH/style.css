@@ -185,3 +185,8 @@ p{
     padding: 5px 0px;
     background: url(../5-CH/img/ornamento.png) no-repeat center right;
 }
+
+#details li:hover{
+    background: #f6f3d6;
+    cursor: pointer;
+}
